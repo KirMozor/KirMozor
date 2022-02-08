@@ -1,7 +1,6 @@
 ![Header](https://github.com/KirMozor/KirMozor/blob/main/assets/Header.jpg)
 
-About me
+## I am a Python web developer
 
-Language
-
-Follow me!
+### Language and Tools
+![Flutter](https://img.shields.io/badge/-Python-edf1f4?style=for-the-badge&logo=python)
