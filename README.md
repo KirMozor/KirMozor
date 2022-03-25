@@ -13,5 +13,8 @@
 [![Flutter](https://img.shields.io/badge/-Telegram-edf1f4?style=for-the-badge&logo=telegram&logoColor=3776ab)](https://t.me/KirMozorF)
 ![Flutter](https://img.shields.io/badge/-KirMozor%236756-edf1f4?style=for-the-badge&logo=discord&logoColor=3776ab)
 
+### My Telegram channel
+[![Flutter](https://img.shields.io/badge/-Telegram-edf1f4?style=for-the-badge&logo=telegram&logoColor=3776ab)](https://t.me/KirMozor)
+
 Hello, I am a python developer, I can write telegrams and discord bots, I have worked with MySQL, MariaDB and SQLite. I also learn Unity and C# little by little. I can also parse web pages, this is proved by the Jut-dl project
 You can see my projects below.
