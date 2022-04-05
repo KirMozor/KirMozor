@@ -18,3 +18,13 @@
 
 Hello, I am a python developer, I can write telegrams and discord bots, I have worked with MySQL, MariaDB and SQLite. I also learn Unity and C# little by little. I can also parse web pages, this is proved by the Jut-dl project
 You can see my projects below.
+
+
+<p align="center">
+  <table>
+  <tr>
+      <td><a href="https://github.com/KirMozor"><img width="510px" align="left" src="https://github-readme-stats.vercel.app/api?username=KirMozor&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117"/></td>
+      <td><a href="https://github.com/KirMozor"><img width="510px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirMozor&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117"/></td>
+  </tr>   
+  </table>
+</p>
