@@ -1,4 +1,4 @@
-## I am a Python web developer
+## I am a Python web developer and C# developer
 
 ### Language and Tools
 ![Flutter](https://img.shields.io/badge/-Python-edf1f4?style=for-the-badge&logo=python)
@@ -18,7 +18,9 @@
 ### My Telegram channel
 [![Flutter](https://img.shields.io/badge/-Telegram-edf1f4?style=for-the-badge&logo=telegram&logoColor=3776ab)](https://t.me/KirMozor)
 
-Hello, I am a python developer, I can write telegrams and discord bots, I have worked with MySQL, MariaDB and SQLite. I also learn Unity and C# little by little. I can also parse web pages, this is proved by the Jut-dl project
+Hello, I am Python and C# Developer, I can write Telegram and Discord bots. I worked with MySQL, Mariadb and SQLite. I also study Unity and C# a little bit. I can also analyze the web pages, this is proved by the JUT-DL project
+Not so long ago I wrote [API for YandexMusic on C#](https://github.com/KirMozor/YandexMusicApi)
+And also I write a [client for Yandex music for UNIX](https://github.com/KirMozor/Yamux) (in general it is a cross-platform) where my API is used
 You can see my projects below.
 
 
