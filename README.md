@@ -18,9 +18,9 @@
 ### My Telegram channel
 [![Flutter](https://img.shields.io/badge/-Telegram-edf1f4?style=for-the-badge&logo=telegram&logoColor=3776ab)](https://t.me/KirMozor)
 
-Hello, I am Python and C# Developer, I can write Telegram and Discord bots. I worked with MySQL, Mariadb and SQLite. I also study Unity and C# a little bit. I can also analyze the web pages, this is proved by the JUT-DL project
-Not so long ago I wrote [API for YandexMusic on C#](https://github.com/KirMozor/YandexMusicApi)
-And also I write a [client for Yandex music for UNIX](https://github.com/KirMozor/Yamux) (in general it is a cross-platform) where my API is used
+Hello, I am Python and C# Developer, I can write Telegram and Discord bots. I worked with MySQL, Mariadb and SQLite. I also study Unity and C# a little bit. I can also analyze the web pages, this is proved by the JUT-DL project. /n
+Not so long ago I wrote [API for YandexMusic on C#](https://github.com/KirMozor/YandexMusicApi). /n
+And also I write a [client for Yandex music for UNIX](https://github.com/KirMozor/Yamux) (in general it is a cross-platform) where my API is used. /n
 You can see my projects below.
 
 
