@@ -9,6 +9,7 @@
 ![Flutter](https://img.shields.io/badge/-Blender-edf1f4?style=for-the-badge&logo=blender&logoColor=3776ab)
 ![Flutter](https://img.shields.io/badge/-SQL-edf1f4?style=for-the-badge&logo=mysql&logoColor=3776ab)
 ![Flutter](https://img.shields.io/badge/-Qt-edf1f4?style=for-the-badge&logo=qt&logoColor=3776ab)
+![Flutter](https://img.shields.io/badge/-Gtk-edf1f4?style=for-the-badge&logo=gtk&logoColor=3776ab)
 ![Flutter](https://img.shields.io/badge/-ArchLinux-edf1f4?style=for-the-badge&logo=archlinux&logoColor=3776ab)
 
 ### E-mail me
