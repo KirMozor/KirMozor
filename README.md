@@ -1,5 +1,7 @@
 ## I am a Python web developer and C# developer
 
+### I switched to [GitLab](https://gitlab.com/KirMozor), the actual repositories are only there. GitHub is abandoned
+
 ### Language and Tools
 ![Flutter](https://img.shields.io/badge/-Python-edf1f4?style=for-the-badge&logo=python)
 ![Flutter](https://img.shields.io/badge/-C%23-edf1f4?style=for-the-badge&logo=csharp&logoColor=3776ab)
